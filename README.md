@@ -13,4 +13,7 @@ Autores:
 ####Contacto Email:
 {a70377,a70804,a71074}@alunos.uminho.pt
 
+####Mais Informações:
+http://wiki.di.uminho.pt/twiki/bin/view/Education/CP/MaterialPedagogico
+
 
