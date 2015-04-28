@@ -1,8 +1,16 @@
-# Cp - Trabalho
+CP - Trabalho Haskell
+===============
 
-Membros:
+Projecto a realizar para a disciplina de CP
 
-  - 70377 André Silva
-  - xxxxx Luis Ribeiro
-  - xxxxx Sebastião Freitas
+Autores:
+-----------
+
+ * André Silva (a70377)  
+ * Luis Ribeiro (a70804)  
+ * Sebastião Freitas (a71074)  
+
+####Contacto Email:
+{a70377,a70804,a71074}[at]alunos.uminho.pt
+
 
