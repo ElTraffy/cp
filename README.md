@@ -11,6 +11,6 @@ Autores:
  * Sebastião Freitas (a71074)  
 
 ####Contacto Email:
-{a70377,a70804,a71074}[at]alunos.uminho.pt
+{a70377,a70804,a71074}@alunos.uminho.pt
 
 
